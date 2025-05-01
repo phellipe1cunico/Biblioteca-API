@@ -39,6 +39,7 @@
 git clone https://github.com/phellipe1cunico/Biblioteca-API.git
 
 # 2. Acesse a pasta do projeto
+cd Biblioteca-API
 cd BibliotecaAPI
 
 # 3. Restaure os pacotes
